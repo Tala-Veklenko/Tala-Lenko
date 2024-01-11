@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Natalie-Veklenko
 - 👀 I’m interested in Software Testing
 - 🌱 Now I am studying on my own and preparing for the ISTQB exam
-- 💞️ I want to cooperate with a good and professional team of QA 
 - 📫 How to get to me: linkedin.com/in/natalie-veklenko  natalieveklenko@gmail.com
 
 <!---
